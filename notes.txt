@@ -1,0 +1,1 @@
+Followed from https://www.tutorialspoint.com/erlang/
